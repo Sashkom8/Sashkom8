@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sashkom8
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning C#, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
